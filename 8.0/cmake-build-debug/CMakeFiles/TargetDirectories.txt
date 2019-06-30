@@ -1,0 +1,3 @@
+D:/C language learn/8.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C language learn/8.0/cmake-build-debug/CMakeFiles/8_0.dir
+D:/C language learn/8.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

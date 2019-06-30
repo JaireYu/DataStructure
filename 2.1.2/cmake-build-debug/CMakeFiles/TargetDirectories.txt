@@ -1,0 +1,3 @@
+D:/C language learn/2.1.2/cmake-build-debug/CMakeFiles/2_1_2.dir
+D:/C language learn/2.1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C language learn/2.1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
